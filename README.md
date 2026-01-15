@@ -1,2 +1,2 @@
-# finemind
-bytebank
+# AI power ECG reading
+
